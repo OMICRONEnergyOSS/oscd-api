@@ -1,6 +1,6 @@
 {
   "name": "@omicronenergy/oscd-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "OpenSCD API for IEC 61850 SCL files",
   "type": "module",
   "main": "./index.js",
