@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/OMICRONEnergyOSS/oscd-api/compare/oscd-api-v0.1.1...oscd-api-v0.1.2) (2025-07-11)
+
+
+### Features
+
+* add plugin interface (shell constraint to APIs) ([ad9a3d0](https://github.com/OMICRONEnergyOSS/oscd-api/commit/ad9a3d0a61fd5f27acf5bd8ca5b781acb049ad65))
+
 ## [0.1.1](https://github.com/OMICRONEnergyOSS/oscd-api/compare/oscd-api-v0.1.0...oscd-api-v0.1.1) (2025-07-09)
 
 
